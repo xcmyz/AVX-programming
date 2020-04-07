@@ -1,6 +1,6 @@
 # AVX Programming Example
-use avx-512
+use avx-512 for CPU acceleration
 
-## ToDO
+## ToDo
 - [ ] vector operation
 - [ ] tiny neural network
